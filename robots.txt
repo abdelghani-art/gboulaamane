@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ghani.boulaamane.workers.dev/sitemap.xml
